@@ -1,0 +1,30 @@
+@charset "UTF-8";
+*{
+    font-style: italic;
+      }
+    body{
+        background-image: linear-gradient(90deg,#023E73,#05C7F2,#05DBF2);
+    }
+    main{
+        background-color: whitesmoke;
+        border-radius: 10px;
+        box-shadow:05px 05px 15px #002c53a6;
+        width: 1000px;
+        padding: 15px;
+        margin: auto;
+    }
+    h1{
+        color: #F20544;
+        text-align: center;
+        text-shadow: 05px 05px 15px #72032093;
+    }
+    h2{
+        color: #F2055C;
+        text-shadow: 05px 05px 5px rgba(88, 88, 88, 0.616);
+    }
+    p{
+        text-align: justify;
+    }
+
+   
+     
