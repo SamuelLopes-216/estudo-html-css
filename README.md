@@ -2,7 +2,7 @@
 estudos de html5 e css3 
  estou aprendendo a programar um site e agora a gerenciar um repositorio
 
- <p><a href="https://samuellopes-216.github.io/estudo-htm-css/desafio/desafio003/index.htm">Clique aqui</a> para ver um pequeno projeto feito por mim.</p>
+ <p><a href="https://samuellopes-216.github.io/estudo-html-css\desafio\desafio003\index.html">Clique aqui</a> para ver um pequeno projeto feito por mim.</p>
 
  <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex001/index.html">exercicio 001</a></p>
 
