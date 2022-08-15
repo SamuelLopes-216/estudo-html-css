@@ -1,9 +1,11 @@
 # estudo-html-css
-estudos de html5 e css3 basico
+estudos de html5 e css3 
  estou aprendendo a programar um site e agora a gerenciar um repositorio
 
+ <p><a href="https://samuellopes-216.github.io/estudo-htm-css/desafio/desafio003">
+
  <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex001/index.html">exercicio 001</a></p>
- 
+
  <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex002/index.html">exercicio 002</a></p>
 
  <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex003/index.html">exercicio 003</a></p>
