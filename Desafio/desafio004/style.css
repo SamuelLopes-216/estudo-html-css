@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family:PassionOne ;
+    src: url(fontes/PassionOne-Bold.ttf);
+}
+@font-face {
+    font-family:Sriracha ;
+    src: url(fontes/Sriracha-Regular.ttf);
+}
+:root{
+    --font3:'Sriracha', cursive;
+    --font2:'PassionOne', cursive;
+    --font1:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 1em
+}
+
+html,body{
+     min-height: 100vh;
+     font-family: var(--font1);
+     background-color: darkgray;
+}
+
+header{
+     text-align: center;
+     color: white;
+     background-color: black;
+}
+
+header>h1{ 
+     font-family:var(--font2);
+     font-size: 10vw;
+     font-variant: small-caps;
+     padding-top:50px;
+}
+
+header>p{
+     padding-bottom: 50px;
+}
+
+header a{
+     text-decoration: none;
+     font-weight: bolder;
+     color: white;
+}
+
+section{
+     padding-top: 10vh;
+     padding-bottom: 10vh;
+     padding-left: 30px;
+     line-height: 2em;
+     font-family: var(--font3);
+     font-size: 3.5vw;
+}
+
+section>p{
+        padding-bottom: 2em;
+}
+
+section.normal{
+        color:black;
+        background-color: white;
+}
+
+section.imagem{
+        background-color: rgb(51, 51, 51);
+        color: white;
+        box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+section.imagem>p{
+        color: white;
+        display: inline-block;
+        padding: 5px;
+        background-color: rgba(0, 0, 0, 0.562);
+        text-shadow: 1px 1px 1px rgb(0, 0, 0);
+        border: 2px solid rgba(0, 0, 0, 0.37);
+        border-radius: 5px;
+}
+
+section#img1{
+    background-image: url(imagens/rosa.png);
+}
+
+section#img2{
+    background-image: url(imagens/cartas.png);
+}
+
+footer{ 
+    color: white;
+    background-color: rgba(31, 30, 30, 0.363);
+    height: 30px;
+    border:2px solid rgba(0, 0, 0, 0.507)
+}
+
+footer>p{
+    padding:5px;
+    text-align: center;
+}
+
+footer p>a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
