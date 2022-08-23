@@ -1,0 +1,63 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gray;
+    height: 100vh;
+}
+
+header{
+    background-color: rgba(27, 27, 27, 0.568);
+    border: 2px solid rgba(0, 0, 0, 0.411);
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.596);
+    color: rgba(253, 253, 253, 0.897);
+    text-align: center;
+    height: 10%;
+    padding-top: 25px;
+}
+
+section.img{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(imagens/img02.webp);
+    background-color: black;
+    color: white;
+    height: 55vh;
+    box-shadow: inset 2px 2px 2px 0px black;
+}
+
+h2{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
+p.texto{
+    font-size: 1.2em;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 5px;
+    text-align: justify;
+    width: 250px; 
+    background-color: rgba(134, 134, 134, 0.329);
+    border: 2px solid rgba(0, 0, 0, 0.486);
+}
+
+section.normal{
+    background-color: white;
+    height: 40vh;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-weight: bolder;
+    position: relative;
+}
+
+p.p1{
+    text-align: justify;
+    padding-left: 60%;
+    padding-bottom: 20px
+}
