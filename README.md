@@ -47,3 +47,7 @@ estudos de html5 e css3
  <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex021/index.html">exercicio 021</a></p>
  
  <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex022/fundo003.html">exercicio022</a></p>
+
+ 
+<p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex023/
+tabela02.html">exercicio023</a></p>
