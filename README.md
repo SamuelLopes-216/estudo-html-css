@@ -4,7 +4,7 @@ estudos de html5 e css3
 
 
 
- <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex001/index.html">exercicio 001</a></p>
+ <p><a href="https://samuellopes-216.github.io/estudo-html-css/blob/main/desafio/desafio003/index.html>Desafio android</a></p>
 
  <p><a href="https://samuellopes-216.github.io/estudo-html-css/exercicios/ex002/index.html">exercicio 002</a></p>
 
